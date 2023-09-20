@@ -15,7 +15,7 @@ We will be using a model of the Frank-Emika Panda robot, which features:
 
 ## Preliminary Analysis
 
-### Phase 1: Understanding the Robot and Environment
+### Understanding the Robot and Environment
 - **Spatial Frame Location**: Base of the robot
 - **Orientation Determination**: Trial and error method using the PD controller
 - **Variable Definition**: Suitable variables defined to measure the length of different joints on the Panda robot
