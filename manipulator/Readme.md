@@ -17,6 +17,4 @@ Or refer to the installation instruction on the Pybullet website.
 
 Your environment should then be all set to run the Notebook.
 
-## Motivation
-
 
