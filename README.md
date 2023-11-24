@@ -5,6 +5,10 @@ Panda Robot Arm places blocks in the bowl
 
 ![image](https://github.com/Gaurang-1402/manipulator_impedance_control/assets/71042887/8713cab5-41c8-4c3e-836a-2e41ce575ebe)
 
+# Demo
+
+![unnamed](https://github.com/Gaurang-1402/manipulator_impedance_control/assets/71042887/b9a97d8b-6a98-4d00-920a-3d113f3f6b03)
+
 
 # Task 
 
