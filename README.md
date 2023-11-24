@@ -3,10 +3,6 @@
 Panda Robot Arm places blocks in the bowl
 
 
-![image](https://github.com/Gaurang-1402/manipulator_impedance_control/assets/71042887/8713cab5-41c8-4c3e-836a-2e41ce575ebe)
-
-# Demo
-
 ![unnamed](https://github.com/Gaurang-1402/manipulator_impedance_control/assets/71042887/b9a97d8b-6a98-4d00-920a-3d113f3f6b03)
 
 
@@ -31,6 +27,8 @@ We will be using a model of the Frank-Emika Panda robot, which features:
 
 
 ### Methodology
+![image](https://github.com/Gaurang-1402/manipulator_impedance_control/assets/71042887/8713cab5-41c8-4c3e-836a-2e41ce575ebe)
+
 
 #### Impedance Controller
 
@@ -67,6 +65,8 @@ calculate the Jacobian in the spatial frame (O frame), resulting in a 6 by 7 mat
 velocity (or desired velocity). The joint torques are calculated using the following equation:
 
 ![image](https://github.com/Gaurang-1402/manipulator_impedance_control/assets/71042887/69f65296-b56f-470b-924d-3e6df20adf68)
+
+
 
 ### Analysis
 
